@@ -1,2 +1,2 @@
-# Test-
+# Test
 learn to use Git
