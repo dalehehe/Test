@@ -19,6 +19,7 @@ namespace Test
 
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Are you sure close this app?", "info");
             this.Close();
         }
     }
